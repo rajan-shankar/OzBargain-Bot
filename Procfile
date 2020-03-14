@@ -1,1 +1,1 @@
-worker: python ozbargain_bot.py
+worker: python ozbargain_bot_latest.py
