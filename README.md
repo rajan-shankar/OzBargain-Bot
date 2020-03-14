@@ -1,1 +1,1 @@
-# OzBargain-Bot
+# OzBargain-Deals-Bot
